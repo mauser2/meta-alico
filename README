@@ -1,0 +1,7 @@
+This is a BSP for Kinetic 3530 board from Alico Systems Inc.
+
+It is based on OpenEmbedded release 2011.03 (linux-omap-2.6.37), then Arago and Angstrom.
+
+The recipes are then modified for Yocto Compliant with original hardware
+
+Thanks
